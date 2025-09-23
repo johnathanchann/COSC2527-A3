@@ -2,7 +2,6 @@
 # Futball
 Watch Messi AI vs T800 AI (inspired by terminator)
 
-**
 # Instruction
 
 ## Running the Game
